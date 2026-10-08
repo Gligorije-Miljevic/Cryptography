@@ -1,0 +1,11 @@
+ID: e5b3ebc6-206f-4400-a697-795777f78111
+Organizator: o1
+Naslov: ert
+Opis: ert
+Pocetak: 2026-01-25T12:55
+Kraj: 2026-01-25T13:00
+Status: FINISHED
+
+qw = 0
+asd = 0
+wr = 1
